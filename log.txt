@@ -1,0 +1,217 @@
+User Command: C:\Program Files\nodejs\node.exe,D:\Users\Abhishek\Desktop\Bootcamp\Assignment 8\LiriNode\liri
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: C:\Program Files\nodejs\node.exe,D:\Users\Abhishek\Desktop\Bootcamp\Assignment 8\LiriNode\liri,heat
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: C:\Program Files\nodejs\node.exe,D:\Users\Abhishek\Desktop\Bootcamp\Assignment 8\LiriNode\liri
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Tue Apr 09 03:44:41 +0000 2013
+Tweet content: Check out http://t.co/JXRn1pyn1h, good deals!
+------------------------
+Created on: Mon Feb 25 13:06:26 +0000 2013
+Tweet content: Why waste time fiddling with settings when you get into the car? Just use #nfctasklauncher on your Android Device: http://t.co/h3NbnYcdiE
+------------------------
+Created on: Wed Jun 01 01:34:09 +0000 2011
+Tweet content: sats + finals + math test + chem test + eng editing X 2 = shittttt
+------------------------
+
+User Command: node liri.js spotify-this-song 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Here: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null
+
+User Command: node liri.js movie-this 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Mr. Nobody
+Year Released: 26 Sep 2013
+IMBD Rating: 7.9
+Country Produced: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: In the year 2092, one hundred eighteen year old Nemo is recounting his life story to a reporter. He is less than clear, often times thinking that he is only thirty-four years of age. But his story becomes more confusing after he does focus on the fact of his current real age. He tells of his life at three primary points in his life: at age nine (when his parents divorced), age sixteen and age thirty-four. The confusing aspect of the story is that he tells of alternate life paths, often changing course with the flick of a decision at each of those ages. One life path has him ultimately married to Elise, a depressed woman who never got over the unrequited love she had for a guy named Stefano when she was a teenager and who asked Nemo to swear that when she died he would sprinkle her ashes on Mars. A second life path has him married to Jean. Their life is one of luxury but one also of utter boredom. And a third life path has him in a torrid romance with his step-sister Anna, the two who, as adults, would search for each other after having been torn apart as teenagers. These life paths also intersect, with the three women sometimes entering the alternate life in some other aspect. Are any of these lives real or are they all a figment of his imagination?
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/mr-nobody/
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song "I Want it That Way"
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview Here: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Tue Apr 09 03:44:41 +0000 2013
+Tweet content: Check out http://t.co/JXRn1pyn1h, good deals!
+------------------------
+Created on: Mon Feb 25 13:06:26 +0000 2013
+Tweet content: Why waste time fiddling with settings when you get into the car? Just use #nfctasklauncher on your Android Device: http://t.co/h3NbnYcdiE
+------------------------
+Created on: Wed Jun 01 01:34:09 +0000 2011
+Tweet content: sats + finals + math test + chem test + eng editing X 2 = shittttt
+------------------------
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song "I Want it That Way"
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview Here: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=null
+
+User Command: node liri.js spotify-this-song 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Here: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null
+
+User Command: node liri.js movie-this 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Mr. Nobody
+Year Released: 26 Sep 2013
+IMBD Rating: 7.9
+Country Produced: Belgium, Germany, Canada, France
+Language: English, Mohawk
+Plot: In the year 2092, one hundred eighteen year old Nemo is recounting his life story to a reporter. He is less than clear, often times thinking that he is only thirty-four years of age. But his story becomes more confusing after he does focus on the fact of his current real age. He tells of his life at three primary points in his life: at age nine (when his parents divorced), age sixteen and age thirty-four. The confusing aspect of the story is that he tells of alternate life paths, often changing course with the flick of a decision at each of those ages. One life path has him ultimately married to Elise, a depressed woman who never got over the unrequited love she had for a guy named Stefano when she was a teenager and who asked Nemo to swear that when she died he would sprinkle her ashes on Mars. A second life path has him married to Jean. Their life is one of luxury but one also of utter boredom. And a third life path has him in a torrid romance with his step-sister Anna, the two who, as adults, would search for each other after having been torn apart as teenagers. These life paths also intersect, with the three women sometimes entering the alternate life in some other aspect. Are any of these lives real or are they all a figment of his imagination?
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/mr-nobody/
+
+User Command: node liri.js movie-this heat 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Heat
+Year Released: 15 Dec 1995
+IMBD Rating: 8.2
+Country Produced: USA
+Language: English, Spanish
+Plot: Hunters and their prey--Neil and his professional criminal crew hunt to score big money targets (banks, vaults, armored cars) and are, in turn, hunted by Lt. Vincent Hanna and his team of cops in the Robbery/Homicide police division. A botched job puts Hanna onto their trail while they regroup and try to put together one last big 'retirement' score. Neil and Vincent are similar in many ways, including their troubled personal lives. At a crucial moment in his life, Neil disobeys the dictum taught to him long ago by his criminal mentor--'Never have anything in your life that you can't walk out on in thirty seconds flat, if you spot the heat coming around the corner'--as he falls in love. Thus the stage is set for the suspenseful ending....
+Actors: Al Pacino, Robert De Niro, Val Kilmer, Jon Voight
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/1068182-heat/
+
+User Command: node liri.js spotify-this-song lego house 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Lego House
+Artist: Ed Sheeran
+Album: +
+Preview Here: https://p.scdn.co/mp3-preview/12eb90aa64be1b349b479f8dde7ca7175ac11513?cid=null
+
+User Command: C:\Program Files\nodejs\node.exe,D:\Users\Abhishek\Desktop\Bootcamp\Assignment 8\LiriNode\liri
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Tue Apr 09 03:44:41 +0000 2013
+Tweet content: Check out http://t.co/JXRn1pyn1h, good deals!
+------------------------
+Created on: Mon Feb 25 13:06:26 +0000 2013
+Tweet content: Why waste time fiddling with settings when you get into the car? Just use #nfctasklauncher on your Android Device: http://t.co/h3NbnYcdiE
+------------------------
+Created on: Wed Jun 01 01:34:09 +0000 2011
+Tweet content: sats + finals + math test + chem test + eng editing X 2 = shittttt
+------------------------
+
