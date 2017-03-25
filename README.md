@@ -6,3 +6,5 @@ Use npm install in local directory to install dependent packages. App will not f
 Code beautified using Beautify
 
 No Heroku Support
+
+Functioning Log.txt, run program to generate new log, entries are not overwritten. 
